@@ -3,3 +3,5 @@
 ### Hi Sen!
 ###### Small heading!
 I changed the file.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
