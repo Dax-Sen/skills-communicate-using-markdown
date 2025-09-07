@@ -11,4 +11,8 @@ I changed the file.
 a <- 1*2
 a
 
+
 ```
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
